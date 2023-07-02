@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+  color: pink;
+  text-decoration: underline;
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, th, td{
+  border: 1px solid black;
+}
+
+form{
+    line-height: 1.5;
+}
+
+a{
+    line-height: 1.5;
+}

@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+
+.text{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
